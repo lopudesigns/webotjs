@@ -1,0 +1,21 @@
+{
+  "name": "webotjs",
+  "version": "1.0.0",
+  "description": "A Javascript bot for WeYouMe",
+  "main": "index.js",
+  "scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"push": "git add . ; git commit -m 'ready' ; git push dev",
+    "pull": "git pull origin dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopudesigns/webotjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopudesigns/webotjs/issues"
+  },
+  "homepage": "https://github.com/lopudesigns/webotjs#readme"
+}
